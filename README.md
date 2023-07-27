@@ -2,7 +2,7 @@
 ## Overview
 
 
-![download](img src="https://github.com/michalakatarzyna/Alien-vs-Predator/assets/101282499/0e9fe856-9bc3-4c2e-8f82-f41e6ec1d8ca" alt="Alien vs. Predator" style="display: block; margin: 0 auto;")
+![download](<img src="https://github.com/michalakatarzyna/Alien-vs-Predator/assets/101282499/0e9fe856-9bc3-4c2e-8f82-f41e6ec1d8ca" alt="Alien vs. Predator" style="display: block; margin: 0 auto;">)
 
 This project is an image classification model that can distinguish between images of Predators and Aliens. The model was trained on the Alien vs. Predator dataset using different data augmentations and architectures.
 
