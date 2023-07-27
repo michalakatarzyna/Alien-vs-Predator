@@ -30,25 +30,39 @@ Grayscale Model: A simple CNN model with grayscale images.
 
 ![3](https://github.com/michalakatarzyna/Alien-vs-Predator/assets/101282499/66203599-fd93-4dd6-a946-28b6315c5aed)
 
+
+
+
 RGB Model: A CNN model with RGB images.
 
 
 ![4](https://github.com/michalakatarzyna/Alien-vs-Predator/assets/101282499/74562f07-9a89-4807-ad90-7d63a2018008)
+
+
+
 
 Rotate Model: A CNN model with rotated images as data augmentation.
 
 
 ![5](https://github.com/michalakatarzyna/Alien-vs-Predator/assets/101282499/436491a2-14c1-4707-a3e4-21cf7bb5f071)
 
+
+
+
 Flip Model: A CNN model with horizontally and vertically flipped images as data augmentation.
 
 
 ![6](https://github.com/michalakatarzyna/Alien-vs-Predator/assets/101282499/ee6f6b84-0920-4636-bd02-97513bdb4e23)
 
+
+
 Brightness Model: A CNN model with brightness-adjusted images as data augmentation.
 
 
 ![7](https://github.com/michalakatarzyna/Alien-vs-Predator/assets/101282499/4304ad4e-c91c-485f-a821-a8369ff9f942)
+
+
+
 
 ResNet50 Model: A pre-trained ResNet50 model fine-tuned for the classification task.
 
